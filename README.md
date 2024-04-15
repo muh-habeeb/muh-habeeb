@@ -5,7 +5,7 @@ STUDENT
 -------
 
 * 🌍  I'm based in KERALA
-* ✉️  You can contact me at [muhammadhabeebrahmam@gmail.com](mailto:muhammadhabeebrahmam@gmail.com)
+* ✉️  You can contact me at [muhhabeeb787@gmail.com](mailto:muhhabeeb787@gmail.com)
 * 🧠  I'm learning C ,JAVA,HTML,CSS, JAVASCRIPT,
 
 <a href="https://www.github.com/MUHAMMEDHABEEBRAHMANKT" target="_blank" rel="noreferrer"><img
