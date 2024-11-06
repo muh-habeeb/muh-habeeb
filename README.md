@@ -72,8 +72,8 @@ link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
    <a  href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" style="margin:0 15px;" width="" height="36" alt="netlify" /></a>
-   <a href="https://vercel.com/" style="margin:0 15px;"  target="_blank" rel="noreferrer"><img src="https://github.com/muh-habeeb/muh-habeeb/blob/main/icon%20extra/code-examples-vercel-photoaidcom-cropped.jpg" width="30" height="36" alt="vercel" /></a>
-   <a href="https://render.com/" style="margin:0 15px;" target="_blank" rel="noreferrer"><img src="https://github.com/muh-habeeb/muh-habeeb/blob/main/icon%20extra/zOO1N7Su_400x400-photoaidcom-cropped.jpg" width="30" height="36" alt="render" /></a>
+   <a href="https://vercel.com/" style="margin:0 15px;"  target="_blank" rel="noreferrer"><img src="https://github.com/muh-habeeb/muh-habeeb/blob/main/icon%20extra/code-examples-vercel-photoaidcom-cropped.jpg" width="36" height="36" alt="vercel" /></a>
+   <a href="https://render.com/" style="margin:0 15px;" target="_blank" rel="noreferrer"><img src="https://github.com/muh-habeeb/muh-habeeb/blob/main/icon%20extra/zOO1N7Su_400x400-photoaidcom-cropped.jpg" width="36" height="36" alt="render" /></a>
    <a href="https://firebase.google.com/" target="_blank"  rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="firebase" /></a>
  <br>
 
