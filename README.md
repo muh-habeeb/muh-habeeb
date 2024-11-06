@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-th
 
 <!-- link for icons social  https://github.com/danielcranney/profileme-dev/tree/main/public/icons/socials/iconname
 link for icons skill  https://github.com/danielcranney/profileme-dev/tree/main/public/icons/skills/iconname
-link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/public/icons/support/ -->>
+link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/public/icons/support/ -->
  <br>
  <br>
  </p>
@@ -103,7 +103,7 @@ link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/
 <br>
 <br>
 <a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-href="https://www.buymeacoffee.com/muh.habeeb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+href="https://www.buymeacoffee.com/muh.habeeb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ko-fi.com/muhhabeeb"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 
 </p>
