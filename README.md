@@ -13,7 +13,8 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
+<br>
+<br>
 # 📊 GitHub Stats:
 
 
@@ -40,7 +41,9 @@ src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-th
 <a href="https://codepen.io/MUHAMMEDHABEEBRAHMANKT" target="blank"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" alt="stakoverflow" height="35" width="40" /></a>
 <a href="https://codesandbox.io/u/muhhabeeb" target="blank"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" alt="stakoverflow" height="35" width="40" /></a>
 
-<!-- link for icons https://github.com/danielcranney/profileme-dev/tree/main/public/icons/socials -->
+<!-- link for icons social  https://github.com/danielcranney/profileme-dev/tree/main/public/icons/socials/iconname
+link for icons skill  https://github.com/danielcranney/profileme-dev/tree/main/public/icons/skills/iconname
+link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/public/icons/support/ -->>
  <br>
  <br>
  </p>
@@ -69,9 +72,9 @@ src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-th
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
    <a  href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" style="margin:0 15px;" width="" height="36" alt="netlify" /></a>
-   <a href="https://vercel.com/" style="background:#fff;padding:20px 5px 0 0;margin:0 15px;"  target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png" width="130" height="36" alt="vercel" /></a>
-   <a href="https://render.com/" style="background:#fff;padding-top:20px;margin:0 15px;" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/flex016/uploads/render/original/2X/a/ad2cd49c57c27455f695b61f3f8a01571697b336.svg" width="130" height="36" alt="render" /></a>
-   <a href="https://firebase.google.com/" target="_blank" style="background:#fff;padding-top:20px;" rel="noreferrer"><img src="https://seeklogo.com/images/F/firebase-logo-C912FB49C1-seeklogo.com.png" width="130" height="36" alt="firebase" /></a>
+   <a href="https://vercel.com/" style="margin:0 15px;"  target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png" width="130" height="36" alt="vercel" /></a>
+   <a href="https://render.com/" style="margin:0 15px;" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/flex016/uploads/render/original/2X/a/ad2cd49c57c27455f695b61f3f8a01571697b336.svg" width="130" height="36" alt="render" /></a>
+   <a href="https://firebase.google.com/" target="_blank"  rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="firebase" /></a>
  <br>
 
 ### OTHER:
