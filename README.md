@@ -65,6 +65,7 @@ link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/
 
 ### FRAMEWORKS, PLATFORMS & LIBRARIES:
  <br>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a  href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a   href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a   href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a    href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a  href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,7 +74,6 @@ link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/
 ### HOSTING/SAAS:
  <br>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a  href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png"  width="" height="36" alt="netlify" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://vercel.com/"   target="_blank" rel="noreferrer"><img src="https://github.com/muh-habeeb/muh-habeeb/blob/main/icon%20extra/code-examples-vercel-photoaidcom-cropped.jpg" width="36" height="36" alt="vercel" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://github.com/muh-habeeb/muh-habeeb/blob/main/icon%20extra/zOO1N7Su_400x400-photoaidcom-cropped.jpg" width="36" height="36" alt="render" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
