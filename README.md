@@ -83,7 +83,7 @@ link for icons buy  my https://github.com/danielcranney/profileme-dev/tree/main/
 ### OTHER:
 
 <a   href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tor-logo-D973AFACBC-seeklogo.com.png" alt="postman" width="40" height="40"/> </a>
+<!--<a href="#" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/tor-logo-D973AFACBC-seeklogo.com.png" alt="postman" width="40" height="40"/> </a>-->
 
  <br>
 
