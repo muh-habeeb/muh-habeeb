@@ -5,7 +5,8 @@
 ## A Dumb Affected BY Programing!
 
 - 🌍  I'm based in India
-- 🚀  I'm currently working on [SOS APP](http://github.com/muh-habeeb/fluter_sos)
+- 🚀  I'm currently working on [E com](https://github.com/muh-habeeb/huxn_ecom.git)
+<!-- [SOS APP](http://github.com/muh-habeeb/fluter_sos)-->
 - 🧠  I'm learning MERN AND FLUTTER
 - 🤝  I'm open to collaborating on PingMe
 - ⚡  Who knows ...
