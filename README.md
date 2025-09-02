@@ -27,7 +27,7 @@
 
 <a href="http://www.github.com/muh-habeeb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muh-habeeb&stroke=10b981&background=181824&ring=22c55e&fire=22c55e&currStreakNum=10b981&currStreakLabel=22c55e&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
-<a href="https://github.com/muh-habeeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-habeeb&langs_count=15&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/muh-habeeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-habeeb&langs_count=10&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 <!-- <a href="https://github.com/muh-habeeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-habeeb&langs_count=15&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
