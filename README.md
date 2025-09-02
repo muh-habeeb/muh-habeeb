@@ -11,7 +11,7 @@
 - 🧠  I'm learning MERN AND FLUTTER
 - 🤝  I'm open to collaborating on PingMe
 - ⚡  Who knows ...
-
+<!--
 ### ✍️ Random Dev Quote
 <p>
 
@@ -19,7 +19,7 @@
 </p>
 <br>
 <br>
-
+-->
 # 📊 GitHub Stats:
 
 
