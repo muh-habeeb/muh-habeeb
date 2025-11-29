@@ -9,9 +9,9 @@
  🌱 I’m currently learning <b>Everything!</b>  <br>
  👯 I’m looking to collaborate on <a href="#">Projects</a>  <br>
  🤝 I’m looking for help with learning everything!  <br>
- <!-- 🤝 I’m looking for help with <a href="https://sahilsheikh.dev/">SaaS Projects</a>  <br> -->
+ <!-- 🤝 I’m looking for help with <a href="https://muh-habeeb.vercel.app/">SaaS Projects</a>  <br> -->
  👨‍💻 Most of my projects are available at <a href="https://muh-habeeb.vercel.app/">muh-habeeb.vercel.app</a>  <br>
- <!-- 📝 I regularly write and share articles on <a href="https://sahilsheikh.dev/">my socials</a>  <br> -->
+ <!-- 📝 I regularly write and share articles on <a href="https://muh-habeeb.vercel.app/">my socials</a>  <br> -->
  💬 Ask me about <b>Anything!</b>  <br>
  📫 Reach me at <a href="mailto:muhhabeeb787+readme@gmail.com">muhhabeeb787+readme@gmail.com</a>  <br>
  📄 Learn about my experience at <a href="https://muh-habeeb.vercel.app/">muh-habeeb.vercel.app</a>  <br>
@@ -27,7 +27,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" height="60" style="margin:10px;">
   </a>
 
-  <!-- <a href="https://twitter.com/sahilsheikh_dev">
+  <!-- <a href="https://twitter.com/muh-habeeb">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" height="60" style="margin:10px;">
   </a> -->
 
@@ -36,7 +36,7 @@
     <!-- <img src="https://img.icons8.com/color/48/instagram-new.png" height="60" style="margin:10px;"> -->
   </a>
 
-  <!-- <a href="https://facebook.com/sahilsheikh-dev">
+  <!-- <a href="https://facebook.com/muh-habeeb">
     <img src="https://img.icons8.com/color/48/facebook-new.png" height="60" style="margin:10px;">
   </a> -->
 
@@ -48,19 +48,19 @@
     <img src="https://img.icons8.com/windows/48/dev.png" height="60" style="margin:10px;">
   </a>
 
-  <!-- <a href="https://hashnode.com/@sahilsheikh-dev">
+  <!-- <a href="https://hashnode.com/@muh-habeeb">
     <img src="https://img.icons8.com/color/48/hashnode.png" height="60" style="margin:10px;">
   </a> -->
 
-  <!-- <a href="https://medium.com/@sahilsheikh-dev">
+  <!-- <a href="https://medium.com/@muh-habeeb">
     <img src="https://img.icons8.com/color/48/medium.png" height="60" style="margin:10px;">
   </a> -->
 
-  <!-- <a href="https://dribbble.com/sahilsheikh-dev">
+  <!-- <a href="https://dribbble.com/muh-habeeb">
     <img src="https://img.icons8.com/color/48/dribbble.png" height="60" style="margin:10px;">
   </a> -->
 <!--
-  <a href="https://behance.net/sahilsheikh-dev">
+  <a href="https://behance.net/muh-habeeb">
     <img src="https://img.icons8.com/color/48/behance.png" height="60" style="margin:10px;">
   </a> -->
 
@@ -72,21 +72,19 @@
     <img src="https://img.icons8.com/color/48/stackoverflow.png" height="60" style="margin:10px;">
   </a>
 
-  <br/>
-
   <a href="https://leetcode.com/u/Lw4th9uNpZ/">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="60" style="margin:10px;">
   </a>
 
-  <!-- <a href="https://codeforces.com/profile/sahilsheikh-dev">
+  <!-- <a href="https://codeforces.com/profile/muh-habeeb">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" height="60" style="margin:10px;">
   </a> -->
 
-  <!-- <a href="https://codechef.com/users/sahilsheikh-dev">
+  <!-- <a href="https://codechef.com/users/muh-habeeb">
     <img src="https://img.icons8.com/color/48/codechef.png" height="60" style="margin:10px;">
   </a> -->
 <!--
-  <a href="https://auth.geeksforgeeks.org/user/sahilsheikh-dev">
+  <a href="https://auth.geeksforgeeks.org/user/muh-habeeb">
     <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="60" style="margin:10px;">
   </a> -->
 
@@ -96,32 +94,34 @@
 <hr>
 <h3 align="center">Github Status</h3>
 <p align="center">
-        <a href="http://www.github.com/muh-habeeb"><img src="https://github-readme-stats.vercel.app/api?username=muh-habeeb&show_icons=true&hide=prs,&count_private=true&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="muh-habeeb's GitHub stats" /></a>
+        <!-- <a href="http://www.github.com/muh-habeeb"><img src="https://github-readme-stats.vercel.app/api?username=muh-habeeb&show_icons=true&hide=prs,&count_private=true&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="muh-habeeb's GitHub stats" /></a>
+        <br> -->
+        <a href="http://www.github.com/muh-habeeb">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muh-habeeb&stroke=10b981&background=181824&ring=22c55e&fire=22c55e&currStreakNum=10b981&currStreakLabel=22c55e&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
         <br>
-        <a href="http://www.github.com/muh-habeeb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muh-habeeb&stroke=10b981&background=181824&ring=22c55e&fire=22c55e&currStreakNum=10b981&currStreakLabel=22c55e&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
-        <br>
-        <a href="https://github.com/muh-habeeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-habeeb&langs_count=10&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+        <!-- <a href="https://github.com/muh-habeeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-habeeb&langs_count=10&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a> -->
 </p>
 
 <!-- <a href="https://github.com/muh-habeeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-habeeb&langs_count=15&title_color=22c55e&text_color=10b981&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <!-- follower count -->
-
-<a href="https://www.github.com/muh-habeeb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-the-badge&color=14b8a6&labelColor=181824" height="39" /></a>
+<p align="center" >
+    <ahref="https://www.github.com/muh-habeeb" target="_blank" rel="noreferrer"><img
+    src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-the-badge&color=14b8a6&labelColor=181824" height="39" /></ahref=>
+</p>
 
 <h3 align="center">Languages and Tools</h3>
 
 <!-- Languages -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,flutter,dart,r" />
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,flutter,dart,r,md" />
   </a>
 </p>
 
 <!-- Frontend -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,materialui,vite" />
     <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="45" style="border-radius:5px;"/>
   </a>
@@ -129,39 +129,39 @@ src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-th
 
 <!-- Backend & Frameworks -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
 <!-- Mobile -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
 </p>
 
 <!-- Databases -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite,firebase" />
   </a>
 </p>
 
 <!-- Cloud / DevOps -->
 <!-- <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,gitlab,githubactions,jenkins,cloudflare,terraform,ansible,vagrant" />
   </a>
 </p> -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,cloudflare" />
   </a>
 </p>
 <!-- Tools / Testing / Build -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman,vim,redis,npm,pnpm" />
     <img src="https://www.echoapi.com/blog/content/images/2024/11/EchoAPI_logo_v2.png" height="50" />
   </a>
@@ -169,35 +169,43 @@ src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-th
 
 <!-- Messaging / Streaming -->
 <!-- <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
   </a>
 </p> -->
 
 <!-- Design / 3D / Creative -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma,photoshop,pr" />
   </a>
 </p>
 <!-- <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,blender,autocad" />
   </a>
 </p> -->
 
+<!-- Hosting -->
+
+<p align="center">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,replit,firebase" />
+  </a>
+</p>
+
 <!-- Editor -->
 
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode,webstorm,vim,visualstudio" />
   </a>
 </p>
 
 <!-- OS / Misc -->
 <p align="center">
-  <a href="https://sahilsheikh.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,androidstudio,cloudflare,notion,discord" />
+  <a href="https://muh-habeeb.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali,androidstudio,cloudflare,notion,discord" />
   </a>
 </p>
 
@@ -225,6 +233,5 @@ src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-th
    height="50" width="150"/>
     
   </a>
-  
-</p>
+  </p>
 <hr>
