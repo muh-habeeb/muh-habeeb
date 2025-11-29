@@ -216,7 +216,7 @@
 <br/>
 <hr>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=F79924&center=true&vCenter=true&random=true&width=435&lines=BACKEND+;FULLSTACK;DEVOPS;FRONTEND" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=28&duration=1500&pause=600&color=F79924&center=true&vCenter=true&random=true&width=435&lines=BACKEND+;FULLSTACK;DEVOPS;FRONTEND" alt="Typing SVG" /></a></p>
 
 <!-- TROPHY -->
 <div align="center">
