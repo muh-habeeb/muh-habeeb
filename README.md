@@ -107,7 +107,10 @@
 <!-- follower count -->
 <p align="center" >
     <ahref="https://www.github.com/muh-habeeb" target="_blank" rel="noreferrer"><img
-    src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-the-badge&color=14b8a6&labelColor=181824" height="39" /></ahref=>
+    src="https://img.shields.io/github/followers/muh-habeeb?logo=github&style=for-the-badge&color=14b8a6&labelColor=181824" height="39" /></a>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=muh-habeeb&color=orange&style=for-the-badge">
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -123,7 +126,7 @@
 <p align="center">
   <a href="https://muh-habeeb.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,materialui,vite" />
-    <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" height="45" style="border-radius:5px;"/>
+    <img src="https://media.daily.dev/image/upload/s--nmy-SeMz--/f_auto/v1733385075/squads/f6e60edb-ee79-4dee-914c-841e14638aa9" height="45" style="border-radius:5px;"/>
   </a>
 </p>
 
@@ -212,14 +215,16 @@
 <br/>
 <br/>
 <hr>
+
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=600&color=F79924&center=true&vCenter=true&random=true&width=435&lines=BACKEND+;FULLSTACK;DEVOPS;FRONTEND" alt="Typing SVG" /></a></p>
 
 <!-- TROPHY -->
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=muh-habeeb&column=5&margin-w=15&margin-h=15" alt="muh-habeeb" />
   </a>
-</div> -->
+</div>
+
 <br/>
 <hr>
 <h3 align="center">Support</h3>
