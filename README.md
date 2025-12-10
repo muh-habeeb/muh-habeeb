@@ -220,11 +220,11 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=28&duration=1500&pause=600&color=F79924&center=true&vCenter=true&random=true&width=435&lines=BACKEND+;FULLSTACK;DEVOPS;FRONTEND" alt="Typing SVG" /></a></p>
 
 <!-- TROPHY -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=muh-habeeb&column=5&margin-w=15&margin-h=15" alt="muh-habeeb" />
   </a>
-</div>
+</div> -->
 
 <br/>
 <hr>
