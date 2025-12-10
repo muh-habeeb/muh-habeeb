@@ -243,3 +243,6 @@
   </a>
   </p>
 <hr>
+<div align="center"> 
+![snake gif](https://github.com/muh-habeeb/muh-habeeb/blob/output/github-snake-dark.svg)
+</div>
