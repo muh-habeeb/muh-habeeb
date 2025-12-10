@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm MUHAMMED HABEEB RAHMAN KT</h1>
 <!-- <h3 align="center">A passionate Full Stack Developer from India</h3> -->
-<h3 align="center">A Dumb Affected BY Programming!</h3>
+<h3 align="center">A Dumb Thinks he can change the world! </h3>
 
 <br/>
 
 <p align="center">
  <!-- 🔭 I’m currently working on <a href="#">My Portfolio</a>  <br> -->
- 🌱 I’m currently learning <b>Microservices</b>  <br>
+ 🌱 I’m currently learning <b>Basics😁</b>  <br>
  <!-- 🌱 I’m currently learning <b>Everything!</b>  <br> -->
- 👯 I’m looking to collaborate on <a href="#">Projects</a>  <br>
+ 👯 I’m looking to collaborate on <a href="#">anything</a>  <br>
  🤝 I’m looking for help with learning everything!  <br>
  <!-- 🤝 I’m looking for help with <a href="https://muh-habeeb.vercel.app/">SaaS Projects</a>  <br> -->
  👨‍💻 Most of my projects are available at <a href="https://muh-habeeb.vercel.app/">muh-habeeb.vercel.app</a>  <br>
