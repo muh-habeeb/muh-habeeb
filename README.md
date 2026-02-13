@@ -11,7 +11,8 @@
  👯 I’m looking to collaborate on <a href="#">anything</a>  <br>
  🤝 I’m looking for help with learning everything!  <br>
  <!-- 🤝 I’m looking for help with <a href="https://muh-habeeb.vercel.app/">SaaS Projects</a>  <br> -->
- 👨‍💻 Most of my projects are available at 🔗 [muh-habeeb.vercel.app](https://muh-habeeb.vercel.app/)
+ <!-- 👨‍💻 Most of my projects are available at 🔗 [muh-habeeb.vercel.app](https://muh-habeeb.vercel.app/) -->
+ 👨‍💻 Most of my projects are available at 🔗 muh-habeeb.vercel.app
  <br>
  <!-- 📝 I regularly write and share articles on <a href="https://muh-habeeb.vercel.app/">my socials</a>  <br> -->
  💬 Ask me about <b>Anything!</b>  <br>
